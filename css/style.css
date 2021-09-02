@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Pirata One', cursive;
+    color: white;   
+    background-image: url(/img/4fxxbm4opjd31.jpg);   
+    background-size: cover;
+    background-blend-mode: overlay;   
+    background-color: rgba(0,0,0,0.5);   
+  
+}
+
+main{
+    text-align: center;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+
+label, select {
+    display: block;
+}
+
+input, textarea{
+    margin-bottom: 15px;
+}
+
+select {
+margin: 0px auto 15px;
+}
